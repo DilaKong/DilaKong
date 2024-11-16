@@ -1,32 +1,30 @@
 # 💫 About Me:
 
-👋 Merhaba, ben Dila Zerrin Türkan Kong!<br>
-💻 Veri analizi, Python, SQL ve PowerBI uzmanıyım.<br>
-🔥 Mountain View International şirketinde Medical Billing Specialist olarak çalışıyorum.<br>
-🎨 Veri Analizi ile ilgileniyorum.<br>
-🤖 AI tabanlı projeler, veri modellemesi ve bunları geliştirmek üzerine çalışmak istiyorum.<br>
-📊 Power BI ve DAX kullanarak iş zekası raporları hazırlıyorum.<br>
+👋 Hi, I'm Dila Zerrin Türkan Kong!<br>
+💻 I am an expert in data analysis, Python, SQL, and Power BI.<br>
+🔥 Currently working as a Medical Billing Specialist at Mountain View International.<br>
+🎨 I am passionate about Data Analysis.<br>
+🤖 I am interested in AI-based projects, data modeling, and developing innovative solutions.<br>
+📊 I create business intelligence reports using Power BI and DAX.<br>
 
-## 🚀 Hedeflerim:
+## 🚀 My Goals:
 
-- ✔️ Yeni projelerle veritabanı analizinde uzmanlaşmak.
-- 🛍️ AI destekli dijital analizler yapmak.
-- 🎓 Veri analizi ve analitik alanında sürekli kendimi geliştirmek.
+- ✔️ Master database analysis with new projects.
+- 🛍️ Conduct AI-supported digital analytics.
+- 🎓 Continuously enhance my skills in data analysis and analytics.
 
-## 🔧 Kullandığım Teknolojiler:
+## 🔧 Technologies I Use:
 
-- **Programlama Dilleri:** Python, SQL, Excel, PowerBI
-- **İş Zekası:** Power BI, DAX
-- **Dijital Tasarım:** Adobe Photoshop, Canva
-- **Proje Yönetimi:** Excel
+- **Programming Languages:** Python, SQL, Excel, Power BI
+- **Business Intelligence:** Power BI, DAX
+- **Digital Design:** Adobe Photoshop, Canva
+- **Project Management:** Excel
 
-## 📫 Bana Ulaşın:
+## 📫 Connect with Me:
 
 - **LinkedIn:** [www.linkedin.com/in/dila-zerrin-türkan-kong-265096156](#)
-- **E-posta:** [dilaturkan96@gmail.com](#)
-
+- **Email:** [dilaturkan96@gmail.com](mailto:dilaturkan96@gmail.com)
 
 ---
 
-🛠️ **Projelerimi Keşfedin** ve bana katkıda bulunun! 💬 Her türlü geri bildirimi ve öneriyi memnuniyetle karşılarım.
-
+🛠️ **Explore my projects** and feel free to contribute! 💬 I welcome all feedback and suggestions.
